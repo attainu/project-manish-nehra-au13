@@ -1,12 +1,14 @@
-create_parking_lot 3
-park RJ-07-CC-1270 White
-park RJ-27-CC-9100 Blue
-park DL-12-CC-1289 Black
-
-leave 1
+create_parking_lot 6
+park RJ-01-CC-1634 RED
+park KA-01-HH-9999 White
+park BR-01-BB-0001 Black
+park HR-01-HH-7777 Red
+park DL-01-HH-2701 Blue
+park RJ-01-HH-3141 Black
+leave 4
 status
-park HP-01-P-333 White
-park BR-12-AA-9999 White
+park RJ-01-P-1270 White
+park DL-12-AA-9999 White
 registration_numbers_for_cars_with_colour White
 slot_numbers_for_cars_with_colour White
 slot_number_for_registration_number KA-01-HH-3141
