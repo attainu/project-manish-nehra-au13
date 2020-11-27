@@ -1,0 +1,13 @@
+create_parking_lot 3
+park RJ-07-CC-1270 White
+park RJ-27-CC-9100 Blue
+park DL-12-CC-1289 Black
+
+leave 1
+status
+park HP-01-P-333 White
+park BR-12-AA-9999 White
+registration_numbers_for_cars_with_colour White
+slot_numbers_for_cars_with_colour White
+slot_number_for_registration_number KA-01-HH-3141
+slot_number_for_registration_number MH-04-AY-1111
