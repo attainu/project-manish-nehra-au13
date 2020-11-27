@@ -10,7 +10,7 @@ Details:
 
 This project gives an overview of how we can design a basic parking lot in Python. It creates parking lot with given number of slots.
 
-ParkingLot.py script defines the following functions -
+ParkingLot.py (Which is main executable file)script defines the following functions -
 
 1. `create_parking_lot n` - Given n number of slots, create a parking lot
 
